@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Assamite",
+    "sects": ["Independent", "Camerilla", "Sabbot" ],
+    "defaultDisciplines": ["Celerity", "Obfuscate", "Quietus"]
+  },
+  {
+    "name": "Brujah",
+    "sects": ["Anarchs", "Camerilla", "Sabbot", "Tal'mahe'Ra", "Inconnu" ],
+    "defaultDisciplines": ["Celerity", "Potence", "Presence"]
+  },
+  {
+    "name": "Followers of Set",
+    "sects": ["Independent", "Anarchs" ],
+    "defaultDisciplines": ["Obfuscate", "Presence", "Serpentis"]
+  },
+  {
+    "name": "Gangrel",
+    "sects": ["Anarchs", "Camerilla", "Sabbot", "Tal'mahe'Ra", "Inconnu" ],
+    "defaultDisciplines": ["Animalism", "Fortitude", "Protean"]
+  },
+  {
+    "name": "Giovanni",
+    "sects": ["Independent"],
+    "defaultDisciplines": ["Dominate", "Necromancy", "Potence"]
+  },
+  {
+    "name": "Lasombra",
+    "sects": ["Camerilla **Antitribu**", "Sabbot"],
+    "defaultDisciplines": ["Dominate", "Obtenebration", "Potence"]
+  },
+  {
+    "name": "Malkavian",
+    "sects": ["Camerilla", "Sabbot"],
+    "defaultDisciplines": ["Auspex", "Dementation", "Obfuscate" ]
+  },
+  {
+    "name": "Nosferatu",
+    "sects": ["Camerilla", "Sabbot"],
+    "defaultDisciplines": ["Animalism", "Obfuscate", "Potence"]
+  },
+  {
+    "name": "Ravnos",
+    "sects": ["Independent"],
+    "defaultDisciplines": ["Animalism", "Chimerstry", "Fortitude"]
+  },
+  {
+    "name": "Toreador",
+    "sects": ["Camerilla", "Anarchs"],
+    "defaultDisciplines": ["Auspex", "Celerity", "Presence"]
+  },
+  {
+    "name": "Tremere",
+    "sects": ["Camerilla", "Sabbot"],
+    "defaultDisciplines": ["Auspex", "Dominate", "Thaumaturgy"]
+  },
+  {
+    "name": "Tzimisce",
+    "sects": ["Independent", "Sabbot"],
+    "defaultDisciplines": ["Animalism", "Auspex", "Vicissitude"]
+  },
+  {
+    "name": "Ventrue",
+    "sects": ["Camerilla", "Sabbot"],
+    "defaultDisciplines": ["Dominate", "Fortitude", "Presence"]
+  }
+]

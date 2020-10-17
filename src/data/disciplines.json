@@ -1,0 +1,572 @@
+[
+  {
+    "name": "Animalism",
+    "levels": [
+      {
+        "name": "Feral Speech/Feral Whispers",
+        "level": 1,
+        "description": "Speak telepathically with an animal whose eyes you meet",
+        "requirement": "Talk - No roll needed but eye contact \nCommands - Manipulation + Animal Ken roll",
+        "difficulty": "6-8 depending on animal (GM discretion)"
+      },
+      {
+        "name": "Beckoning",
+        "level": 2,
+        "description": "This call mystically summons creatures of\nthe chosen type. Since each type of animal has a different call, Beckoning works for only a single species \nat a time. ",
+        "requirement": "Charisma + Survival",
+        "difficulty": "6",
+        "success": "1 success - A single animal responds.\n2 successes - One-quarter of the animals within earshot respond.\n3 successes - Half of the animals respond.\n4 successes - Most of the animals respond.\n5 successes - All of the animals respond."
+      },
+      {
+        "name": "Quell the Beast",
+        "level": 3,
+        "description": "This quenches all powerful, strong emotions — hope, fury, love, fear — within the target.",
+        "requirement": "Manipulation + Intimidation if forcing down the Beast through fear, or Manipulation + Empathy if soothing it into complacency",
+        "difficulty": "7",
+        "success": "More than targets Willpower"
+      },
+      {
+        "name": "Subsume the Spirit",
+        "level": 4,
+        "description": "The vampire may mentally possess the creature. The vampire’s body falls into a motionless state \n\twhile his mind takes control of the animal’s actions, remaining this way until the Kindred’s consciousness returns.",
+        "requirement": "Manipulation + Animal Ken as the character looks into the animal’s eyes",
+        "difficulty": "8",
+        "success": "1 success - Cannot use Disciplines. \n2 successes - Can use Auspex and other sensory powers.\n3 successes - Can also use Presence and other powers of emotional manipulation. \n4 successes - Can also use Dementation, Dominate, and other powers of mental manipulation.\n5 successes - Can also use Chimerstry, Necromancy, Thaumaturgy, and other mystical powers."
+      },
+      {
+        "name": "Drawing Out the Beast",
+        "level": 5,
+        "description": "The vampire sends target into a frenzy",
+        "requirement": "Manipulation + Self-Control/Instinct. Player must be able to see target",
+        "difficulty": "8",
+        "success": "1 success - The character transfers the Beast, but unleashes it upon a random individual. \n2 successes - The character is stunned by the effort and may not act next turn, but transfers the Beast successfully.\n Alternatively, the character may act normally during the turn, but must spend a Willpower point or suffer a single level of lethal damage. \n3 successes - The character transfers the Beast successfully."
+      }
+    ]
+  },
+  {
+    "name": "Auspex",
+    "levels": [
+      {
+        "name": "Heightened Senses",
+        "level": 1,
+        "description": "This power increases the acuity of all of the vampire’s senses, effectively doubling the clarity and range of sight, hearing, and smell.",
+        "requirement": "",
+        "difficulty": ""
+      },
+      {
+        "name": "Aura Perception",
+        "level": 2,
+        "description": "This power increases the acuity of all of the vampire’s senses, effectively doubling the clarity and range of sight, hearing, and smell.",
+        "requirement": "Perception + Empathy. Must be looking at target",
+        "difficulty": "8",
+        "success": "1 success - Can distinguish only the shade (pale or bright) \n2 successes - Can distinguish the main color.\n3 successes - Can recognize the color patterns. \n4 successes - Can detect subtle shifts. \n5 successes - Can identify mixtures of color and pattern."
+      },
+      {
+        "name": "The Spirit’s Touch",
+        "level": 3,
+        "description": "A vampire with this level of Auspex can “read” these sensations, learning who handled the object, when he last held it, and what was done with it recently.",
+        "requirement": "Perception + Empathy. Must be holding/touching the object",
+        "difficulty": "The difficulty is determined by the age of the impressions",
+        "success": "1 success - Can distinguish only the shade (pale or bright) \n2 successes - Can distinguish the main color.\n3 successes - Can recognize the color patterns. \n4 successes - Can detect subtle shifts. \n5 successes - Can identify mixtures of color and pattern."
+      },
+      {
+        "name": "Telepathy",
+        "level": 4,
+        "description": "This power increases the acuity of all of the vampire’s senses, effectively doubling the clarity and range of sight, hearing, and smell.",
+        "requirement": "\n\tIntelligence + Subterfuge - Projecting thoughts into the target’s mind requires one success. \n\t Perception + Awareness - he subject recognizes that the thoughts come from somewhere other than his own consciousness, though he cannot discern their actual origin without a successful",
+        "difficulty": "Target's Willpower."
+      },
+      {
+        "name": "Psychic Projection",
+        "level": 5,
+        "description": "The Kindred with this awesome ability projects their senses out of their physical shell, stepping from their body as an entity of pure thought.",
+        "requirement": "Perception + Awareness. Spend a Willpower point",
+        "difficulty": "relative to complex and distanct \n\t example - 5 is within sight, 7 is nearby or to a familiar location, and 9 reflects a trip far from familiar territory "
+      }
+    ]
+  },
+  {
+    "name": "Celerity",
+    "levels": [
+      {
+        "name": "Speed boost 1",
+        "level": 1,
+        "description": "Gives the vampire an addition action per turn (GM discretion)",
+        "requirement": "Spend blood point",
+        "difficulty": ""
+      },
+      {
+        "name": "Speed boost 2",
+        "level": 2,
+        "description": "Gives the vampire an addition action per turn (GM discretion)",
+        "requirement": "Spend blood point",
+        "difficulty": ""
+      },
+      {
+        "name": "Speed boost 3",
+        "level": 3,
+        "description": "Gives the vampire an addition action per turn (GM discretion)",
+        "requirement": "Spend blood point",
+        "difficulty": ""
+      },
+      {
+        "name": "Speed boost 4",
+        "level": 4,
+        "description": "Gives the vampire an addition action per turn (GM discretion)",
+        "requirement": "Spend blood point",
+        "difficulty": ""
+      },
+      {
+        "name": "Speed boost 5",
+        "level": 5,
+        "description": "Gives the vampire an addition action per turn (GM discretion)",
+        "requirement": "Spend blood point",
+        "difficulty": ""
+      },
+      {
+        "name": "Projectile",
+        "level": 6,
+        "description": "Projectile enables a vampire to take his preternatural speed and transfer it into something he has thrown, fired, or launched. \n\t Each dot of Celerity infused into a thrown object becomes an automatic success to the attack’s damage roll, assuming the weapon or projectile actually hits.",
+        "requirement": "Spend blood point",
+        "difficulty": ""
+      },
+      {
+        "name": "Flower of Death",
+        "level": 7,
+        "description": "Flower of Death allows a vampire to take his Celerity and apply it in full to each hand-to-hand or melee attack he makes. \n\t Dexterity rolls get added to every dice pool for attack the character makes",
+        "requirement": "Spend 4 blood points",
+        "difficulty": ""
+      },
+      {
+        "name": "Zephyr",
+        "level": 8,
+        "description": "Zephyr produces an effect vaguely similar to one of the legendary comic book-style uses of enhanced speed. \n\t Run on water, up walls, etc.",
+        "requirement": "Spend blood point and willpower point",
+        "difficulty": ""
+      }
+    ]
+  },
+  {
+    "name": "Chimerstry",
+    "levels": [
+      {
+        "name": "Ignis Fatuus",
+        "level": 1,
+        "description": "The vampire may conjure a minor, static mirage that confounds one sense.",
+        "requirement": "Spend one Willpower point",
+        "difficulty": ""
+      },
+      {
+        "name": "Fata Morgana",
+        "level": 2,
+        "description": "Not really a power unto itself, Apparition allows a vampire to give motion to an illusion created with Ignis Fatuus or Fata Morgana.",
+        "requirement": "Spend one Willpower point and blood point",
+        "difficulty": ""
+      },
+      {
+        "name": "Apparition",
+        "level": 3,
+        "description": "The Vampire can now create illusions that appeal to all the senses, though they remain static.",
+        "requirement": "Spend one blood point",
+        "difficulty": ""
+      },
+      {
+        "name": "Permanency",
+        "level": 4,
+        "description": "This power, also used in conjunction with Ignis Fatuus or Fata Morgana, and keeps the illusion permanent until dissolved.",
+        "requirement": "Spend one blood point",
+        "difficulty": ""
+      },
+      {
+        "name": "Horrid Reality",
+        "level": 5,
+        "description": "Rather than create simple illusions, the vampire can now project hallucinations directly into a victim’s mind. \n\t **If vampire creates fire, target has to roll willpower against frenzy**",
+        "requirement": "Spend 2 Willpower point. \n\tAttack target - Manipulation + Subterfuge. \n\tConvince target is healed - Charisma + Empathy",
+        "difficulty": "\n\tAttack target - Perception + Self-Control/Instinct. \n\tConvince target is healed - Manipulation + Subterfuge",
+        "success": "\n\tAttack target - Each success inflicts one lethal damage. \n\tConvince target is healed - 2 success to make target believe they are healed for up to 24hrs"
+      }
+    ]
+  },
+  {
+    "name": "Dementation",
+    "levels": [
+      {
+        "name": "Passion",
+        "level": 1,
+        "description": "The vampire stirs his victim’s emotions, either heightening them to a fevered pitch or blunting them until the target is completely desensitized.",
+        "requirement": "Charisma + Empathy. While talking to the target",
+        "difficulty": "difficulty equals the victim’s Humanity or Path rating",
+        "success": "1 success - Last for One turn. \n2 successes - Last for One hour. \n3 successes - Last for One Night. \n4 successes - Last for One week. \n5 successes - Last for One Month. \n6+ successes - Last for 3 Months."
+      },
+      {
+        "name": "The Haunting",
+        "level": 2,
+        "description": "The vampire manipulates the sensory centers of his victim’s brain, flooding the victim’s senses with visions, sounds, scents, or feelings that aren’t really there.",
+        "requirement": "Manipulation + Subterfuge. After talking to the target",
+        "difficulty": "difficulty equals the victim’s Humanity or Path rating",
+        "success": "1 success - Last for One Night. \n2 successes - Last for Two Nights. \n3 successes - Last for One Week. \n4 successes - Last for One Month. \n5 successes - Last for Three Months. \n6+ successes - Last for One Year."
+      },
+      {
+        "name": "Eyes of Chaos",
+        "level": 3,
+        "description": "The Kindred with this power can discern the most well-hidden psychoses, or gain insight into a person’s true self. \n\t This power allows a vampire to determine a person’s true Nature, among other things.",
+        "requirement": "Perception + Occult. Takes one full turn",
+        "difficulty": "6-9. The difficulty depends on the intricacy of the pattern. (Up to GM)"
+      },
+      {
+        "name": "Voice of Madness",
+        "level": 4,
+        "description": "By merely addressing his victims aloud, the Kindred can drive targets into fits of blind rage or fear, forcing them to abandon reason and higher thought.",
+        "requirement": "Manipulation + Empathy. Spend one blood point",
+        "difficulty": "7",
+        "success": "One target is affected per success, although all potential victims must be listening to the vampire’s voice."
+      },
+      {
+        "name": "Total Insanity",
+        "level": 5,
+        "description": "The vampire coaxes the madness from the deepest recesses of her target’s mind, focusing it into an overwhelming wave of insanity. This power has driven countless victims, vampire and mortal alike, to unfortunate ends.",
+        "requirement": "Manipulation + Intimidation. Spend one blood point",
+        "difficulty": "Target(s) Willpower",
+        "success": "** If the roll is successful, the victim is afflicted with five derangements **\n1 success - Last for One turn. \n2 successes - Last for One hour. \n3 successes - Last for One week. \n4 successes - Last for One month. \n5 successes - Last for One year."
+      }
+    ]
+  },
+  {
+    "name": "Dominate",
+    "levels": [
+      {
+        "name": "Command",
+        "level": 1,
+        "description": "The vampire locks eyes with the subject and speaks a one-word command, which the subject must be obey instantly.",
+        "requirement": "Manipulation + Intimidation. Must be looking in to target's eyes",
+        "difficulty": "Target Willpower",
+        "success": "More successes force the subject to act with greater vigor or for a longer duration"
+      },
+      {
+        "name": "Mesmerize",
+        "level": 2,
+        "description": "The vampire can verbally implant a false thought or hypnotic suggestion in the subject’s subconscious mind.",
+        "requirement": "Manipulation + Leadership. Must be looking in to target's eyes",
+        "difficulty": "Target Willpower",
+        "success": "\n\tOne or two successes, the subject cannot be forced to do anything that seems strange to them. \n\t Three or four successes, the command is effective unless following it endangers the subject. \n\t Five successes or greater, the vampire can implant nearly any sort of command."
+      },
+      {
+        "name": "The Forgetful Mind",
+        "level": 3,
+        "description": "After capturing the subject’s gaze, the vampire delves into the subject’s memories, stealing or re-creating them at his whim.",
+        "requirement": "Wits + Subterfuge. Must be looking in to target's eyes",
+        "difficulty": "Target Willpower",
+        "success": "1 success - May remove a single memory;lasts one day \n2 successes - May remove, but not alter, memory permanently. \n3 successes - May make slight changes to memory. \n4 successes - May alter or remove entire scene from subject's memory. \n5 successes - May reonstruct entire periods of the subject's life."
+      },
+      {
+        "name": "Conditioning",
+        "level": 4,
+        "description": "Through sustained manipulation, the vampire can make a subject more pliant to the Kindred’s will. \n\tOver time, the victim becomes increasingly susceptible to the vampire’s influence while simultaneously growing more resistant to the corrupting efforts of other Kindred.",
+        "requirement": "Charisma + Leadership once per scene. Must be looking in to target's eyes",
+        "difficulty": "Target Willpower"
+      },
+      {
+        "name": "Possession",
+        "level": 5,
+        "description": "The Kindred’s psyche is such that it can utterly supplant the mind of a mortal subject. Speaking isn’t required, but the vampire must capture the victim’s gaze.",
+        "requirement": "\n\t Before temporary willpower is removed  - Charisma + Intimidation. Spend one Willpower point. \n\t Once temporary willpower is removed - Manipulation + Intimidation to control mortal",
+        "difficulty": "7 for both",
+        "success": "\n\t Before temporary willpower is removed - removes willpower per success \n\t Once temporary willpower is removed \n\t 1 success - Cannot use Disciplines \n2 successes - Can use Auspex and other sensory powers \n3 successes - Can also use Presense and other powers of emotional Manipulation. \n4 successes - Can also use Dementation, Dominate, and other powers of mental menipulation. \n5 successes - Can also use Chimerstry, Necromancy, Thaumaturgy, and other mustical powers."
+      }
+    ]
+  },
+  {
+    "name": "Fortitude",
+    "levels": [
+      {
+        "name": "Stamina  boost 1",
+        "level": 1,
+        "description": "Adds to his Stamina for the purposes of soaking normal damage (GM discretion)",
+        "requirement": "Reach level",
+        "difficulty": ""
+      },
+      {
+        "name": "Stamina  boost 2",
+        "level": 2,
+        "description": "Adds to his Stamina for the purposes of soaking normal damage (GM discretion)",
+        "requirement": "Reach level",
+        "difficulty": ""
+      },
+      {
+        "name": "Stamina  boost 3",
+        "level": 3,
+        "description": "Adds to his Stamina for the purposes of soaking normal damage (GM discretion)",
+        "requirement": "Reach level",
+        "difficulty": ""
+      },
+      {
+        "name": "Stamina  boost 4",
+        "level": 4,
+        "description": "Adds to his Stamina for the purposes of soaking normal damage (GM discretion)",
+        "requirement": "Reach level",
+        "difficulty": ""
+      },
+      {
+        "name": "Stamina  boost 5",
+        "level": 5,
+        "description": "Adds to his Stamina for the purposes of soaking normal damage (GM discretion)",
+        "requirement": "Reach level",
+        "difficulty": ""
+      }
+    ]
+  },
+  {
+    "name": "Obfuscate",
+    "levels": [
+      {
+        "name": "Cloak of Shadows",
+        "level": 1,
+        "description": "The vampire must rely on nearby shadows and cover to assist in hiding his presence.",
+        "requirement": "No requirement, So long as he remains quiet and motionless, virtually no one but another Kindred with a high enough Auspex rating will see him",
+        "difficulty": ""
+      },
+      {
+        "name": "Unseen Presence",
+        "level": 2,
+        "description": "The vampire can move around without being seen.",
+        "requirement": "No roll, but GM may require Wits + Stealth if actions may cause vampire to be seen.",
+        "difficulty": "If roll need, GM decides."
+      },
+      {
+        "name": "Mask of a Thousand Faces",
+        "level": 3,
+        "description": "The vampire can influence the perception of others, causing them to see a face different from his.",
+        "requirement": "Manipulation + Performance",
+        "difficulty": "7",
+        "success": "1 success - The vampire retains the same height and build, with a few slight alterations to his basic features. Nosferatu can appear as normal, albeit ugly, mortals. \n2 successes - He looks unlike himself; people don’t easily recognize him or agree about his appearance.\n3 successes - He looks the way he wants to appear. \n4 successes - Complete transformation, including gestures, mannerisms, appearance, and voice. \n5 successes - Profound alteration (appear as the opposite sex, a vastly different age, or an extreme change of size)."
+      },
+      {
+        "name": "Vanish from the Mind’s Eye",
+        "level": 4,
+        "description": "This potent expression of Obfuscate enables the vampire to disappear from plain view. So profound is this vanishing that the immortal can fade away even if he stands directly in front of someone.",
+        "requirement": "Charisma + Stealth",
+        "difficulty": "Equals the target’s Wits + Alertness"
+      },
+      {
+        "name": "Cloak the Gathering",
+        "level": 5,
+        "description": "The vampire may extend his concealing abilities to cover an area. The immortal may use any Obfuscate power upon those nearby as well as upon himself, if he wishes.",
+        "requirement": "The character may conceal one extra individual for each dot of Stealth he possesses",
+        "difficulty": ""
+      }
+    ]
+  },
+  {
+    "name": "Obtenebration",
+    "levels": [
+      {
+        "name": "Shadow Play",
+        "level": 1,
+        "description": "This power grants the vampire limited control over shadows and other ambient darkness.",
+        "requirement": "Spend one blood point",
+        "difficulty": ""
+      },
+      {
+        "name": "Shroud of Night",
+        "level": 2,
+        "description": "The vampire can create a cloud of inky blackness. The cloud completely obscures light and even sound to some extent.",
+        "requirement": "Manipulation + Occult",
+        "difficulty": "7",
+        "success": "Success on the roll generates darkness roughly 10 feet."
+      },
+      {
+        "name": "Arms of the Abyss",
+        "level": 3,
+        "description": "Refining his control over darkness, the Kindred can create prehensile tentacles that emerge from patches of dim lighting. These tentacles may grasp, restrain, and constrict foes.",
+        "requirement": "Manipulation + Occult. Spend one blood point",
+        "difficulty": "7",
+        "success": "each success enables the creation of a single tentacle. Each tentacle is six feet (two meters) long and possesses Strength and Dexterity ratings equal to the invoking vampire’s Obtenebration Trait — Potence and Celerity dots are added to these Strength and Dexterity ratings."
+      },
+      {
+        "name": "Black Metamorphosis",
+        "level": 4,
+        "description": "The Cainite calls upon his inner darkness and infuses himself with it, becoming a monstrous hybrid of matter and shadow.",
+        "requirement": "Manipulation + Courage. Spend two blood points. A botch inflicts two unsoakable health levels of lethal damage",
+        "difficulty": "7",
+        "success": " the vampire possesses four tentacles similar to those evoked via Arms of the Abyss (though their Strength and Dexterity ratings are equal to the vampire’s own Attributes, including dice from Celerity and Potence)."
+      },
+      {
+        "name": "Tenebrous Form",
+        "level": 5,
+        "description": "The vampire becomes an inky, amoeboid patch of shadow. Vampires in this form are practically invulnerable and may slither through cracks and crevices. In addition, the shadow-vampire gains the ability to see in natural darkness.",
+        "requirement": "Spend 3 blood points",
+        "difficulty": "The vampire is immune to physical attacks while in the tenebrous form (though she still takes aggravated damage from fire and sunlight), but may not herself physically attack."
+      }
+    ]
+  },
+  {
+    "name": "Potence",
+    "levels": [
+      {
+        "name": "Strength boost 1",
+        "level": 1,
+        "description": "Gives the vampire an addition action per turn (GM discretion)",
+        "requirement": "Reach level",
+        "difficulty": ""
+      },
+      {
+        "name": "Strength boost 2",
+        "level": 2,
+        "description": "Gives the vampire an addition action per turn (GM discretion)",
+        "requirement": "Reach level",
+        "difficulty": ""
+      },
+      {
+        "name": "Strength boost 3",
+        "level": 3,
+        "description": "Gives the vampire an addition action per turn (GM discretion)",
+        "requirement": "Reach level",
+        "difficulty": ""
+      },
+      {
+        "name": "Strength boost 4",
+        "level": 4,
+        "description": "Gives the vampire an addition action per turn (GM discretion)",
+        "requirement": "Reach level",
+        "difficulty": ""
+      },
+      {
+        "name": "Strength boost 5",
+        "level": 5,
+        "description": "Gives the vampire an addition action per turn (GM discretion)",
+        "requirement": "Reach level",
+        "difficulty": ""
+      }
+    ]
+  },
+  {
+    "name": "Presence",
+    "levels": [
+      {
+        "name": "Awe",
+        "level": 1,
+        "description": "Those near the vampire suddenly desire to be closer to her and become receptive to her point of view. Awe is extremely useful for mass communication.",
+        "requirement": "Charisma + Performance. Spend one blood point.",
+        "difficulty": "7",
+        "success": "1 success - One person\n2 successes - Two people\n3 - successes Six people\n4 - successes 20 people\n5 - successes Everyone in the vampire’s immediate vicinity (an entire auditorium, a mob)"
+      },
+      {
+        "name": "Dread Gaze",
+        "level": 2,
+        "description": "Dread Gaze engenders unbearable terror in its victim, stupefying him into madness, immobility, or reckless flight.",
+        "requirement": "Charisma + Intimidation.",
+        "difficulty": "Wits + Courage"
+      },
+      {
+        "name": "Entrancement",
+        "level": 3,
+        "description": "This power bends others’ emotions, making them the vampire’s willing servants. Due to what these individuals see as true and enduring devotion, they heed the vampire’s every desire. \nSince this is done willingly, instead of having their wills sapped, these servants retain their creativity and individuality.",
+        "requirement": "Appearance + Empathy. Spend one blood point",
+        "difficulty": "Target's Willpower",
+        "success": "Botch - Subject cannot be entranced for the rest of the story.\nFailure - Subject cannot be entranced for the rest of the night.\n1 success - One hour\n2 successes - One day\n3 successes - One week\n4 successes - One month\n5 successes - One year"
+      },
+      {
+        "name": "Summon",
+        "level": 4,
+        "description": "This power bends others’ emotions, making them the vampire’s willing servants. Due to what these individuals see as true and enduring devotion, they heed the vampire’s every desire. \nSince this is done willingly, instead of having their wills sapped, these servants retain their creativity and individuality.",
+        "requirement": "Appearance + Empathy. Spend one blood point",
+        "difficulty": "Target's Willpower",
+        "success": "Botch - Subject cannot be Summoned by that vampire for the rest of the story.\nFailure - Subject cannot be Summoned by that vampire for the rest of the night.\n1 success - Subject approaches slowly and hesitantly.\n2 successes - Subject approaches reluctantly and is easily thwarted by obstacles.\n3 successes - Subject approaches with reasonable speed.\n4 successes - Subject comes with haste, overcoming any obstacles in his way.\n5 successes - Subject rushes to the vampire, doing anything to get to her."
+      },
+      {
+        "name": "Majesty",
+        "level": 5,
+        "description": "Majesty inspires universal respect, devotion, fear — or all those emotions at once — in those around the vampire. The weak scramble to obey her every whim, and even the most dauntless find it almost impossible to deny her.",
+        "requirement": "Spend one Willpower. A target must make a Courage roll (difficulty equal to the vampire’s Charisma + Intimidation, to a maximum of 10) ",
+        "difficulty": ""
+      }
+    ]
+  },
+  {
+    "name": "Protean",
+    "levels": [
+      {
+        "name": "Eyes of the Beast",
+        "level": 1,
+        "description": "The vampire sees perfectly well in pitch darkness, not requiring a light source to notice details in even the darkest basement or cave. The vampire’s Beast is evident in his red glowing eyes, a sight sure to disturb most mortals.",
+        "requirement": "The player must declare his desire to call forth the Eyes. No roll is necessary, but the change requires a full turn to complete. \n\t While manifesting the Eyes, the character suffers a +1 difficulty to all Social rolls with mortals unless he takes steps to shield his eyes",
+        "difficulty": ""
+      },
+      {
+        "name": "Feral Claws",
+        "level": 2,
+        "description": "The vampire’s nails transform into long, bestial claws. These talons are wickedly sharp, able to rend flesh with ease and even carve stone and metal with little trouble.",
+        "requirement": "Spend one blood point",
+        "difficulty": "",
+        "success": "The players attacks normally in combat, but the claws inflict Strength + 1 aggravated damage"
+      },
+      {
+        "name": "Earth Meld",
+        "level": 3,
+        "description": "Earth Meld enables the vampire to become one with the earth. The immortal literally sinks into the bare ground, transmuting his substance to bond with the earth.",
+        "requirement": "Spend one blood point. Takes a full turn.",
+        "difficulty": ""
+      },
+      {
+        "name": "Shape of the Beast",
+        "level": 4,
+        "description": "A Kindred changed in this way is a particularly imposing representative of the animal kingdom. Indeed, he is far superior to normal animals, even ones possessed by Subsume the Spirit.",
+        "requirement": "Spend one blood point. Takes 3 turns. **Spend additional blood points to speed up the turn**",
+        "difficulty": "",
+        "success": "Each form gives the character the abilities of that creature. In wolf form, the vampire’s teeth and claws inflict Strength + 1 aggravated damage, he can run at double speed, and the difficulties of all Perception rolls are reduced by two. \nIn bat form, the vampire’s Strength is reduced to 1, but he can fly at speeds of up to 20 miles per hour, difficulties for all hearing-based Perception rolls are reduced by three, and attacks made against him are at +2 difficulty due to his small size. \nThe Storyteller may allow Gangrel to assume a different animal shape, but should establish the natural abilities it grants the character."
+      },
+      {
+        "name": "Mist Form",
+        "level": 5,
+        "description": "This truly unsettling power enables the vampire to turn into mist.",
+        "requirement": "Spend one blood point. Takes 3 turns. **Spend additional blood points to speed up the turn**",
+        "difficulty": "",
+        "success": "The vampire is immune to all mundane physical attacks while in mist form, although supernatural attacks affect him normally."
+      }
+    ]
+  },
+  {
+    "name": "Quietus",
+    "levels": [
+      {
+        "name": "Silence of Death",
+        "level": 1,
+        "description": "Silence of Death imbues the vampire with a mystical silence that radiates from her body, muting all noise within a certain vicinity. No sound occurs inside this zone, though sounds originating outside the area of effect may be heard by anyone in it.",
+        "requirement": "Spend one blood point.",
+        "difficulty": "",
+        "success": "Creates a 20ft radius of utter stillness around the player for an hour."
+      },
+      {
+        "name": "Scorpion’s Touch",
+        "level": 2,
+        "description": "The vampire may create powerful venom that strips her prey of his resilience",
+        "requirement": "Spend one blood point per amount of poison. Roll Willpower",
+        "difficulty": "6",
+        "success": "1 success - One turn\n2 - successes One hour\n3 - successes One day\n4 - successes One month\n5 - successes Permanently (though Stamina maybe bought back up with experience)"
+      },
+      {
+        "name": "Dagon’s Call",
+        "level": 3,
+        "description": "This terrible power allows a vampire to drown their target in target's own blood.",
+        "requirement": "Spend one Willpower point and do a contest Stamina roll against the target. Must have touched the target within the last hour.",
+        "difficulty": "Target's Willpower"
+      },
+      {
+        "name": "Baal’s Caress",
+        "level": 4,
+        "description": "Allows the Kindred to transmute their blood into a virulent ichor that destroys any living or undead flesh it touches.",
+        "requirement": "Spend one blood point per hit.",
+        "difficulty": "",
+        "success": "Cause damage done to aggravated damage."
+      },
+      {
+        "name": "Taste of Death",
+        "level": 5,
+        "description": "Allows the Vampire to spit caustic blood at her target.",
+        "requirement": "Spend a blood per spit. Spit up 10ft per Strength and Potences levels. If target is hit, Stamina + Athletics.",
+        "difficulty": "6",
+        "success": "Each blood point spewed at the target inflicts two dice of aggravated damage."
+      }
+    ]
+  }
+]
